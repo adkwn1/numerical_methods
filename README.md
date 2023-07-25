@@ -2,7 +2,7 @@
 Author: Andrew Kwon
 
 ## Description
-This project trains and evaluates different prediction models for a regression task. Scope of the project is to balance runtime performance with model quality.
+This project trains and evaluates different prediction models for a regression task. Scope of the project is to balance runtime performance with model quality. *Disclaimer*: this project runs on CPU only support in its current state to measure CPU runtime performance; users can expect long runtimes if starting the notebook from a fresh kernel.
 
 ## Introduction
 A used car sales service is developing an app to attract new customers where users can quickly find out the market value of their car. In this project, we will need to build the model that predicts the car values. The company is interested in the quality (evaluated on RMSE), speed of the prediction, and time required for model training.
