@@ -8,7 +8,7 @@ This project trains and evaluates different prediction models for a regression t
 A used car sales service is developing an app to attract new customers where users can quickly find out the market value of their car. In this project, we will need to build the model that predicts the car values. The company is interested in the quality (evaluated on RMSE), speed of the prediction, and time required for model training.
 
 ## Dataset
-We have access to historical data such as technical specifications, trim versions, and prices, which are further detailed in the file **car_data.csv**:
+We have access to historical data such as technical specifications, trim versions, and prices, which are further detailed in the file **car_data.csv**. Due to upload size limitations, users will need to extract the 7zip archive into the appropriate directory.
 
 **Features**
 - *DateCrawled*: date profile was downloaded from the database
